@@ -477,3 +477,13 @@ body{
 	top: 90px;
 	left: 290px;
 }
+
+.copyright{
+	
+	position: absolute;
+	top: 450px;
+	left: 310px;
+	width: 650px;
+	margin-bottom: 50px;
+	
+}
